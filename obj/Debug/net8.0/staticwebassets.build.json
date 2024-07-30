@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ibITm9nqeF/T4ai6MiwE715H2hGggAwd+ODrkDmYtYw=",
+  "Source": "RabbitMQMongoExample",
+  "BasePath": "_content/RabbitMQMongoExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
